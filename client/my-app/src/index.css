@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+:root {
+  --primary-color: #2563eb;
+  --primary-hover: #1d4ed8;
+
+  --secondary-color: #4f46e5;
+
+  --background-color: #f5f7fb;
+
+  --white-color: #ffffff;
+
+  --text-primary: #111827;
+  --text-secondary: #6b7280;
+
+  --border-color: #d1d5db;
+
+  --error-color: #ef4444;
+
+  --input-focus: #3b82f6;
+}
